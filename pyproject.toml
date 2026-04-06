@@ -1,0 +1,19 @@
+# pyproject.toml
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "coffee-report"           
+version = "0.1.0"
+dependencies = ["tabulate"]      
+description = "Coffee student reports"
+authors = [{name = "Victor", email = "novovitya@yandex.ru"}]
+license = {text = "MIT"}
+
+[project.scripts]
+coffee-report = "coffee_report.main:main" 
+
+[project.optional-dependencies]
+test = ["pytest", "pytest-cov", "pytest-mock"]
+dev = ["ruff", "black"]
