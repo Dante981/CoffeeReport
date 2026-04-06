@@ -1,7 +1,6 @@
 # Coffee Report 🥤📈
 
 **CLI-утилита для анализа расходов студентов на кофе во время сессии.**  
-Модульная архитектура (Factory + Strategy), **покрытие тестами 85%+**, готова к новым отчетам.
 
 [![Coverage](https://img.shields.io/badge/coverage-85%25-brightgreen)](https://github.com/yourusername/CoffeeReport/actions)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
