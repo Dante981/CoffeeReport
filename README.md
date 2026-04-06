@@ -2,7 +2,6 @@
 
 **CLI-утилита для анализа расходов студентов на кофе во время сессии.**  
 
-[![Coverage](https://img.shields.io/badge/coverage-85%25-brightgreen)](https://github.com/yourusername/CoffeeReport/actions)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 
 ## Быстрый старт
